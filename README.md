@@ -2,7 +2,7 @@
 
 
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif"><br>
-- 🔭 Here's my [portfolio](https://arunng2004.github.io/)
+- 🔭 Here's my [Portfolio](https://arunng2004.github.io/)
 - 🌱 I’m currently learning Backend Development
 - 👯 I’m looking to collaborate on Web Development
 - 🤔 I’m looking for help with Placements
