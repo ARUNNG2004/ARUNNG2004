@@ -22,3 +22,10 @@
 
 ### 💻 Workspace Spec
  <img width="77" height="39" src="https://img.shields.io/badge/INTEL-I7-blue" alt="external-intel-corporation-an-american-multinational-corporation-and-technology-company-logo-shadow-tal-revivo"/> <img width="77" height="39" src="https://img.shields.io/badge/RTX-3050%20Ti-drakgreen" alt="nvidia"/>
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
