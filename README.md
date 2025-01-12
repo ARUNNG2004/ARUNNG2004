@@ -29,3 +29,8 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
+<!-- Programming Languages Card -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ARUNNG2004&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ARUNNG2004" /></p>
+
+<!-- GitHub Stats Card -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ARUNNG2004&show_icons=true&locale=en&theme=tokyonight" alt="ARUNNG2004" /></p>
